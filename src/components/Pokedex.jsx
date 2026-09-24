@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useMemo } from "react";
 import axios from "axios";
-import PokemonCard from "./PokemonCard";
+import PokemonCard from "./Pokemoncard";
 import "../components/css/Pokedex.css";
 
 const TYPE_COLORS = {
